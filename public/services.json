@@ -1,0 +1,128 @@
+[
+  {
+    "_id": "65a1f101aa00112233440009",
+    "name": "Physiotherapy Support",
+    "slug": "physiotherapy-support",
+    "category": "Sick Care",
+    "pricePerHour": 450,
+    "pricePerDay": 3800,
+    "shortDescription": "Physiotherapy assistance at home.",
+    "description": "Professional physiotherapy support for injury recovery and mobility improvement at home.",
+    "features": ["Exercise assistance", "Mobility training", "Pain management"],
+    "image": "https://i.ibb.co.com/zWDHgYdp/physiotherapy-tablet-knee-pain-with-man.jpg",
+    "isActive": true
+  },
+  {
+    "_id": "65a1f101aa00112233440010",
+    "name": "Special Needs Care",
+    "slug": "special-needs-care",
+    "category": "Sick Care",
+    "pricePerHour": 420,
+    "pricePerDay": 3600,
+    "shortDescription": "Personalized care for individuals with special needs.",
+    "description": "Trained caregivers provide compassionate care for individuals with physical or mental challenges.",
+    "features": ["Personal assistance", "Behavioral support", "Routine management"],
+    "image": "https://i.ibb.co.com/1GztNpL5/front-view-woman-girl-couch.jpg",
+    "isActive": true
+  },
+  {
+    "_id": "65a1f101aa00112233440011",
+    "name": "Night Care Service",
+    "slug": "night-care-service",
+    "category": "Elderly Care",
+    "pricePerHour": 300,
+    "pricePerDay": 2200,
+    "shortDescription": "Overnight care and supervision service.",
+    "description": "Caregivers stay overnight to ensure safety, comfort, and assistance during night hours.",
+    "features": ["Night supervision", "Emergency handling", "Comfort care"],
+    "image": "https://i.ibb.co.com/1JGWTgK0/physician-nurse-diagnosis-disease-working.jpg",
+    "isActive": true
+  },
+  {
+    "_id": "65a1f101aa00112233440012",
+    "name": "Emergency Short-Term Care",
+    "slug": "emergency-short-term-care",
+    "category": "Sick Care",
+    "pricePerHour": 500,
+    "pricePerDay": 4000,
+    "shortDescription": "Immediate short-term care support during emergencies.",
+    "description": "Fast-response care service for urgent situations when immediate professional help is needed.",
+    "features": ["Quick response", "Trained staff", "Emergency assistance"],
+    "image": "https://i.ibb.co.com/3y6Vh5wM/emergency-concept-laptop-man-using-screen.jpg",
+    "isActive": true
+  },
+  {
+    "_id": "65a1f101aa00112233440005",
+    "name": "24/7 Elderly Home Care",
+    "slug": "24-7-elderly-home-care",
+    "category": "Elderly Care",
+    "pricePerHour": 320,
+    "pricePerDay": 2800,
+    "shortDescription": "Round-the-clock elderly care at home.",
+    "description": "Dedicated caregivers available day and night for elderly individuals needing continuous supervision and support at home.",
+    "features": ["24/7 support", "Personal hygiene assistance", "Emergency response"],
+    "image": "https://i.ibb.co.com/0LLdyxb/Depositphotos-185044366-XL-scaled-1.webp",
+    "isActive": true
+  },
+  {
+    "_id": "65a1f101aa00112233440006",
+    "name": "Post-Surgery Elderly Care",
+    "slug": "post-surgery-elderly-care",
+    "category": "Elderly Care",
+    "pricePerHour": 350,
+    "pricePerDay": 3000,
+    "shortDescription": "Special care for elderly after surgery or hospitalization.",
+    "description": "Professional post-surgery elderly care ensuring safe recovery, mobility support, and proper medication management at home.",
+    "features": ["Mobility assistance", "Medication management", "Recovery monitoring"],
+    "image": "https://i.ibb.co.com/cShJKmrm/optum-postopchecklist-1.jpg",
+    "isActive": true
+  },
+  {
+    "_id": "65a1f101aa00112233440007",
+    "name": "Home Nursing Care",
+    "slug": "home-nursing-care",
+    "category": "Sick Care",
+    "pricePerHour": 400,
+    "pricePerDay": 3500,
+    "shortDescription": "Skilled nursing care for patients at home.",
+    "description": "Certified nurses provide both medical and non-medical care for patients at home, ensuring comfort, safety, and professional health support.",
+    "features": ["Vital monitoring", "Wound dressing", "Injection support"],
+    "image": "https://i.ibb.co.com/23z3HLcs/portrait-healthcare-disability-with-nurse.jpg",
+    "isActive": true
+  },
+  {
+    "_id": "65a1f101aa00112233440001",
+    "name": "Full-Time Baby Care",
+    "slug": "full-time-baby-care",
+    "category": "Baby Care",
+    "pricePerHour": 300,
+    "pricePerDay": 2000,
+    "shortDescription": "Professional full-time care for infants and toddlers at home.",
+    "description": "Our trained caregivers provide safe, loving, and attentive full-time baby care to ensure your child’s comfort, safety, and healthy development at home.",
+    "features": [
+      "Trained and verified caregivers",
+      "Safe and nurturing environment",
+      "Flexible scheduling",
+      "Daily activity engagement"
+    ],
+    "image": "https://i.ibb.co.com/Vrmp3Sv/pexels-photo-3975659.jpg",
+    "isActive": true
+  },
+  {
+    "_id": "65a1f101aa00112233440002",
+    "name": "Part-Time Babysitting",
+    "slug": "part-time-babysitting",
+    "category": "Baby Care",
+    "pricePerHour": 250,
+    "pricePerDay": 1500,
+    "shortDescription": "Flexible babysitting service for short durations.",
+    "description": "Hire trusted and experienced babysitters for a few hours or half-day care, perfect for busy schedules or short-term needs.",
+    "features": [
+      "Hourly or half-day service",
+      "Trusted and experienced babysitters",
+      "Flexible booking options"
+    ],
+    "image": "https://i.ibb.co.com/7mJs4DJ/babysitter-teen-sit-on-sofa.jpg",
+    "isActive": true
+  }
+]
